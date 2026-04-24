@@ -1,5 +1,7 @@
 # BNOS - Bionic Neural Network Operating System
 
+🌍 Language | 语言选择：[中文](README.md) | [English](README_EN.md)
+
 ## 📖 Introduction
 
 BNOS (Bionic Neural Network Operating System) is a general-purpose modular execution engine based on bionic neural networks. The system adopts a brain-inspired architecture where multiple collaborative nodes are combined to build various application systems. It can be used for plugin-based systems, automation pipelines, task scheduling, edge computing, microservices, and other scenarios, as well as for building AI agents. Each node is the smallest execution unit in the system (similar to neurons or functional modules in the brain), and multiple nodes communicate and collaborate through JSON files to jointly realize complex business logic and processing capabilities.
