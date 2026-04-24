@@ -275,4 +275,8 @@ Contributions are welcome! Please feel free to submit Pull Requests or Issues.
 
 ---
 
-**Last Updated**: 2026-04-24
+---
+
+### Development & Design
+Developed & Designed by **Ahdong&Shouey Team**
+Last Updated: 2026-04-24
