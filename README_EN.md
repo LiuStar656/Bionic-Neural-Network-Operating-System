@@ -1,6 +1,6 @@
 # BNOS - Bionic Neural Network Operating System
 
-🌍 Language | 语言选择：[中文](README.md) | [English](README_EN.md)
+🌍 Language | 语言选择：[中文](README_CN.md) | [English](README.md)
 
 ## 📖 Introduction
 
