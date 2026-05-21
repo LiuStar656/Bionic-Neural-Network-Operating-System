@@ -1,0 +1,7 @@
+{
+  "node_name": "node_rust_demo",
+  "listen_upper_file": "../data/upper_data.json",
+  "output_file": "./output.json",
+  "filter": {},
+  "output_type": ""
+}
